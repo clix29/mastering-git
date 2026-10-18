@@ -1,3 +1,3 @@
 ## Hello git!
 
-inm adding th9is from feature-branch
+im adding this from feature-branch
